@@ -90,16 +90,16 @@
     { 
       "category": "AP", 
       "name": "Accountability", 
-      "definition": "basic definition that works across four domains", 
-      "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-      "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-      "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-      "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
+      "definition": "Keeping entities responsible for their actions", 
+      "human": "People accept the consequences for their actions and repay their debt to others/society.", 
+      "organizational": "An organization that acknowledges mistakes, accepts the consequences, and makes changes to minimize mistakes.", 
+      "professional": "Accepts responsibility for mistakes and communicates them with society/client, accepts consequences, and takes preventative steps.", 
+      "machine": "Product liability on the manufacturer applies for faulty systems that inflict harm on humans.", 
       "failureModes": { 
-        "human": "Give concrete example(s).", 
-        "organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
-        "machine": "Give concrete example(s)."
+        "human": "A murderer runs from the law by exiting the country.", 
+        "organizational": "An organization pays off the government to avoid prosecution for scamming investors.", 
+        "professional": "An engineer orchestrates a massive cover-up of negligence in designing a bridge that recently collapsed.", 
+        "machine": "The manufacturer of an AI system publicly claims that a tragedy was user error, despite evidence to the contrary."
       }
     },
   {
