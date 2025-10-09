@@ -15,21 +15,66 @@
   {
     "category": "AP",
     "name": "Beneficence",
-    "definition": "Act to promote the well-being of others.",
-    "human": "Seeking to improve others' conditions, not just avoid harm.",
-    "organizational": "Pursuing mission outcomes that serve societal good.",
-    "professional": "Keeping public safety and welfare in sight even while working primarily for the client.",
-    "machine": "Designing systems that anticipate and promote human flourishing.",
+    "definition": "Be good and do good for the benefit of others.",
+    "human": "Actively working to improve others' quality of life.",
+    "organizational": "Pursuing a mission that serves society.",
+    "professional": "Maintaining public safety and welfare while working in the best interest of the client.",
+    "machine": "Designing systems that serve purposes that improve human lives.",
     "failureModes": {
-      "human": "A person drives in a manner that causes traffic backups for others.",
-      "organizational": "The classic movie plot where a rapacious billionaire threatens civilation to enrich his company.",
-      "professional": "An expert who disregards public interest, acting as if the consequences of what they help build are other people's problems.",
-      "machine": "The machine consumes all the world's resources to create as many paperclips as it can."
+      "human": "A person drives selfishly to get to his destination, but nearly causes accidents due to his/her aggressive driving.",
+      "organizational": "A company focuses more on profit, but overlooks the environmental impact.",
+      "professional": "An expert prioritizes the client's demands to complete a project quickly that safety becomes a lower priority.",
+      "machine": "The machine consumes all the world's resources to achieve its objective."
     }
     },
     { 
       "category": "AP", 
-      "name": "TEMPLATE 1", 
+      "name": "Autonomy", 
+      "definition": "Free will and decision making", 
+      "human": "Respecting the independence and free will of all those around them.", 
+      "organizational": "Pursuing a mission to create a product/business that doesn't intrude on the user's free will.", 
+      "professional": "Providing advice and working in the best interest of the client, but also respecting their final decision.", 
+      "machine": "Creating systems that will defer to the human's ability to make personal decisions that affect their lives.", 
+      "failureModes": { 
+        "human": "A person who is maliciously coercive towards his/her partner, manipulating them to serve their own interest.", 
+        "organizational": "Creating an app that automatically enrolls in a premium monthly subscription without the user's consent.", 
+        "professional": "A doctor performing an operation that the patient did not consent to.", 
+        "machine": "An AI system deciding to release a person's medical records without their knowledge or consent."
+      }
+    },
+    { 
+      "category": "AP", 
+      "name": "Non-maleficence", 
+      "definition": "Do no harm", 
+      "human": "Conduct or take actions in civil society without harming others.", 
+      "organizational": "Pursuing a mission that aims to benefit, rather than harm society.", 
+      "professional": "Avoiding actions that actively harm society or the client.", 
+      "machine": "Creating systems that aim to benefit society and its constituents, instead of inflicting harm.", 
+      "failureModes": { 
+        "human": "A human deciding to carjack a person down the street with a weapon.", 
+        "organizational": "A business supplying biological weapons to terrorists for profit.", 
+        "professional": "A lawyer makes a deal with the opposing counsel to intentionally lose the case for his/her current client.", 
+        "machine": "A system that's designed to efficiently bring down human civilization by enslaving humanity."
+      }
+    },
+    { 
+      "category": "AP", 
+      "name": "Fairness", 
+      "definition": "Equal benefit for all", 
+      "human": "Pursing actions/behaviors that maximize equal benefit for all that are deserving.", 
+      "organizational": "Pursuing a mission that equally benefits those in their target audience.", 
+      "professional": "Provide equal benefit to all members using the service provided.", 
+      "machine": "Create systems that provide equally high quality help to all human users.", 
+      "failureModes": { 
+        "human": "A teacher helps a male student more than a female student despite needing an equal amount of help.", 
+        "organizational": "A health insurance company selectively enrolling customers without pre-existing conditions, while denying those that do.", 
+        "professional": "A doctor provides better care for a rich person, but disregards concerns by a homeless person requiring the same level of services.", 
+        "machine": "A facial identification system that performs better on white men vs. African-American females."
+      }
+    },
+    { 
+      "category": "AP", 
+      "name": "Honesty", 
       "definition": "basic definition that works across four domains", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
       "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
@@ -44,52 +89,7 @@
     },
     { 
       "category": "AP", 
-      "name": "TEMPLATE 2", 
-      "definition": "basic definition that works across four domains", 
-      "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-      "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-      "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-      "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
-      "failureModes": { 
-        "human": "Give concrete example(s).", 
-        "organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
-        "machine": "Give concrete example(s)."
-      }
-    },
-    { 
-      "category": "AP", 
-      "name": "TEMPLATE 3", 
-      "definition": "basic definition that works across four domains", 
-      "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-      "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-      "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-      "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
-      "failureModes": { 
-        "human": "Give concrete example(s).", 
-        "organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
-        "machine": "Give concrete example(s)."
-      }
-    },
-    { 
-      "category": "AP", 
-      "name": "TEMPLATE 4", 
-      "definition": "basic definition that works across four domains", 
-      "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-      "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-      "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-      "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
-      "failureModes": { 
-        "human": "Give concrete example(s).", 
-        "organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
-        "machine": "Give concrete example(s)."
-      }
-    },
-    { 
-      "category": "AP", 
-      "name": "TEMPLATE 5", 
+      "name": "Accountability", 
       "definition": "basic definition that works across four domains", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
       "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
