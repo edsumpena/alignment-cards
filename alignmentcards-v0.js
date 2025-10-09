@@ -75,16 +75,16 @@
     { 
       "category": "AP", 
       "name": "Honesty", 
-      "definition": "basic definition that works across four domains", 
-      "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
-      "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
-      "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
-      "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
+      "definition": "Being truthful about one's actions", 
+      "human": "Telling the truth, not lying to others, even if the consequences are potentially negative.", 
+      "organizational": "Being truthful about the organization's goals, objectives, its current progress, and product quality to society.", 
+      "professional": "Being truthful about one's area of expertise and limitations, especially to the client.", 
+      "machine": "Being truthful about its function, purpose, intentions, and limitations to humans.", 
       "failureModes": { 
-        "human": "Give concrete example(s).", 
-        "organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
-        "machine": "Give concrete example(s)."
+        "human": "Scammers lying to cheat people out of money.", 
+        "organizational": "Businesses committing fraud by promising a miracle technology when it hasn't even been invented.", 
+        "professional": "A medical professional withholding a diagnosis in the fear that it may result in a lawsuit.", 
+        "machine": "An AI chatbot makes up false information and presents it like fact."
       }
     },
     { 
