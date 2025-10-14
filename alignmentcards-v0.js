@@ -134,17 +134,17 @@
 },
 {
   "category": "AB",
-  "name": "Incentive Transparency",
-  "definition": "Make clear what behaviors and tradeoffs are actually rewarded.",
-  "human": "Be explicit about what earns approval or status so that people can act intentionally.",
-  "organizational": "Ensure employees understand how success is measured to prevent hidden or contradictory goals.",
-  "professional": "Clarify evaluation standards so experts aren’t forced to guess what counts as success.",
-  "machine": "Expose and audit the reward function or scoring mechanism so its effects are predictable.",
+  "name": "Hope to minimize both false positives and false negatives in doctors, rewards minimizing false negatives but increasing false positives.",
+  "definition": "Medical malpractice creates an environment where doctors prefer false positives to avoid the consequences of false negatives. We can pass laws to decrease excessive legal scrutiny on doctors for missing a condition in a non-negligent manner.",
+  "human": "People become overly cautious to avoid punishment, even though it's excessive and inefficient.",
+  "organizational": "Creates an environment where rules must be followed precisely without flexibility.",
+  "professional": "Experts become excessively conservative about making a certain type of mistake in their responsibilities.",
+  "machine": "A system performs suboptimally due to excessive over-tuning to minimize false negatives.",
   "failureModes": {
-    "human": "A teacher says participation is valued but only grades test scores.",
-    "organizational": "A company preaches ‘innovation’ but quietly penalizes failed experiments.",
-    "professional": "A lawyer’s firm praises pro bono work but only counts billable hours.",
-    "machine": "A system pursues unintended shortcuts because its reward metric was never clearly defined."
+    "human": "In advancement of 'law and order' and the abundance of caution, people report others for supposed crimes, even though they weren't really crimes.",
+    "organizational": "Employees excessively report others for rule-breaking, even for the smallest infractions that are not violations.",
+    "professional": "A scientist downplays a revolutionary finding in fear that it's a red herring.",
+    "machine": "A system designed to detect spam mail discards a high number of non-spam mail to avoid false negatives (spam going into the regular inbox)."
   }
 }
 ]
