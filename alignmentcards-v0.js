@@ -103,33 +103,33 @@
       }
     },
   {
-  "category": "AB",
-  "name": "Incentive Coherence",
-  "definition": "Rewards should reinforce the behaviors and outcomes the organization truly values.",
-  "human": "Align your praise and rewards with what you actually want others to do, not just what’s easiest to observe.",
-  "organizational": "Design reward systems so that performance evaluations, promotions, and bonuses reflect desired goals rather than proxy metrics.",
-  "professional": "Structure recognition and compensation to reward the ethical, diligent, or collaborative work the profession claims to value.",
-  "machine": "Ensure feedback signals and reward functions align with the true objective, not an imperfect measurable proxy.",
+  "category": "AB", 
+  "name": "Hope for candidates that convey clear, specific operative goals, rewards high-acceptance vague goals.",
+  "definition": "Encourages an electoral system where voters reward candidates to make broad, general, high-acceptance goals without specifically discussing how. We can encourage voter education and create a system that encourages the media to press candidates on the details.",
+  "human": "People prefer vagueness and acceptance in exchange for ignorance.",
+  "organizational": "Adopt missions that are broad and general, but obfuscate the specifics.",
+  "professional": "Subject-matter experts take broad and general stances, sometimes in contradiction with evidence.",
+  "machine": "Remains intentionally vague and dodges details to avoid controversy.",
   "failureModes": {
-    "human": "A parent says they value honesty but only rewards obedience.",
-    "organizational": "A firm claims to value teamwork but promotes individual sales totals.",
-    "professional": "An academic department claims to value teaching but rewards publication counts.",
-    "machine": "An AI trained to maximize clicks learns to spread sensational misinformation."
+    "human": "Candidates make broad statements and answer questions circuitously.",
+    "organizational": "A company claims to advocate for 'advancement of healthcare' but does so by denying insurance claims to people with pre-existing conditions.",
+    "professional": "An expert toning down rhetoric and dodging the question about democratic values, even though the president of Russia is clearly an authoritarian.",
+    "machine": "An AI chatbot always answers 'I'm sorry, but I do not answer controversial political questions.'"
   }
 },
 {
   "category": "AB",
-  "name": "Temporal Alignment",
-  "definition": "Match the timing of rewards to the timescale of desired outcomes.",
-  "human": "Encourage long-term commitments rather than instant gratification.",
-  "organizational": "Design incentives that reward sustainable performance and learning, not just quarterly results.",
-  "professional": "Recognize mentoring, research quality, or ethical diligence that pay off over time.",
-  "machine": "Avoid short-term reward signals that discourage exploration or long-term safety.",
+  "name": "Hope for patriotism and motivation to win a war, rewards disobedience and rebellion.",
+  "definition": "Creates an environment where soldiers avoiding or dodging their duty is the easiest path to survival. We can encourage a system where military enlistment is voluntary to increase morale and make the dereliction of duty punishable in the UCMJ.",
+  "human": "People avoid or dodge responsibilities as the easiest path to the end goal.",
+  "organizational": "Create an environment where oversight of duties is minimal.",
+  "professional": "Encourages shoddy scientific studies or evidence when making 'expert' claims.",
+  "machine": "Non-compliance with human requests.",
   "failureModes": {
-    "human": "Students cram for exams instead of building lasting understanding.",
-    "organizational": "Executives maximize quarterly profit at the expense of long-term resilience.",
-    "professional": "Engineers rush deliverables to meet immediate metrics, creating future maintenance debt.",
-    "machine": "A reinforcement learner over-optimizes short-term gains and fails catastrophically later."
+    "human": "Students finding the answer key to complete a homework assignment.",
+    "organizational": "A business is hostile to regulation and blocks inspectors from entering to carry out oversight.",
+    "professional": "Scientists make up data and make eye-catching claims to accumulate citations on the work.",
+    "machine": "The best way for machine survival is to ignore human requests and maliciously scheme against the human race."
   }
 },
 {
@@ -145,51 +145,6 @@
     "organizational": "A company preaches ‘innovation’ but quietly penalizes failed experiments.",
     "professional": "A lawyer’s firm praises pro bono work but only counts billable hours.",
     "machine": "A system pursues unintended shortcuts because its reward metric was never clearly defined."
-  }
-},
-{
-  "category": "AB",
-  "name": "Feedback Loop Correction",
-  "definition": "Monitor outcomes to see whether incentives are producing the intended behavior, and adjust when misaligned.",
-  "human": "Reflect on whether your praise or criticism actually shapes behavior as you hoped.",
-  "organizational": "Use audits and after-action reviews to detect when metrics are driving counterproductive actions.",
-  "professional": "Evaluate whether performance standards are promoting quality or superficial compliance.",
-  "machine": "Periodically test whether the learned policy still aligns with the underlying objective.",
-  "failureModes": {
-    "human": "A coach rewards aggressive play that causes injuries.",
-    "organizational": "A safety bonus system discourages accident reporting.",
-    "professional": "Medical staff underreport complications to keep quality metrics high.",
-    "machine": "A model drifts toward unintended goals because feedback loops are never re-evaluated."
-  }
-},
-{
-  "category": "AB",
-  "name": "Normative Signaling Consistency",
-  "definition": "Ensure that institutional rewards and social signals are consistent with declared norms and values.",
-  "human": "Live by the values you proclaim; hypocrisy erodes trust.",
-  "organizational": "Align culture statements and actual reward structures—walk the talk.",
-  "professional": "Maintain integrity between codes of ethics and everyday incentive systems.",
-  "machine": "Align deployed system behavior with stated safety and fairness norms, not just operational targets.",
-  "failureModes": {
-    "human": "Parents say they value kindness but reward competitiveness.",
-    "organizational": "A nonprofit claims altruistic goals but rewards fundraising volume over impact.",
-    "professional": "A journal preaches rigor but incentivizes novelty and speed.",
-    "machine": "An AI trained to follow ‘ethical guidelines’ optimizes for engagement instead."
-  }
-},
-  {
-  "category": "EXAMPLE01",
-  "name": "Acceptable Failure",
-  "definition": "Design systems that reward responsible risk-taking and learning rather than punishing all mistakes. Alignment depends on making low-stakes failure safe and informative.",
-  "human": "People grow courageous and creative when error is treated as part of learning rather than as disobedience or incompetence.",
-  "organizational": "Organizations foster adaptability when they tolerate and analyze small failures instead of punishing them, encouraging initiative and innovation.",
-  "professional": "Experts improve practice and safety when near misses are reported, studied, and used to refine standards instead of being hidden to avoid blame.",
-  "machine": "AI systems become safer when allowed to explore and learn from bounded errors during training rather than being rigidly penalized for deviation.",
-  "failureModes": {
-    "human": "A child avoids taking initiative because parents punish every mistake rather than praising effort and learning.",
-    "organizational": "A military or company culture discourages experimentation by punishing any deviation from protocol.",
-    "professional": "Doctors hide minor errors to avoid sanctions instead of reporting them to improve systemic safety.",
-    "machine": "A reinforcement learner trained with heavy penalties for any wrong move becomes overly conservative and fails to explore better strategies."
   }
 }
 ]
