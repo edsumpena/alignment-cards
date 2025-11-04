@@ -146,5 +146,155 @@
     "professional": "A scientist downplays a revolutionary finding in fear that it's a red herring.",
     "machine": "A system designed to detect spam mail discards a high number of non-spam mail to avoid false negatives (spam going into the regular inbox)."
   }
-}
+ },
+ {
+    "category": "AT",
+    "name": "Trustworthiness",
+    "definition": "Reliably honest and truthful (especially in their actions), even when no one is watching",
+    "people": "People can trust others to not do things that are morally 'wrong' in society.",
+    "peopleref": "",
+    "organizational": "Higher-ups can trust lower-downs to not commit violations of integrity, even when not under direct supervision.",
+    "organizationalref": "",
+    "professionals": "Society accepts that professionals maintain their integrity when carrying out duities for social good.",
+    "professionalref": "",
+    "machine": "Machines are expected to be reliably truthful in the information they output and not mislead others.",
+    "machineref": "",
+    "failureModes": {
+      "human": "Ideas built on trust like monetary transactions would immediately stop, since there's no promise to get your good in return.",
+      "organizational": "Employees would no longer follow their superiors as trust in higher-up decisions collapse.",
+      "experts": "Society stops taking advice or turning towards experts for specialized knowledge.",
+      "machine": "Machines become functionally useless as no human would want to employ a technology with no trustworthiness."
+     },
+     "expand": {
+      "human": "Many things between humans rely on trust, including monetary transactions (belief that money will be converted to goods), the economy (trust in institutions), contracts (both parties will uphold their obligations), and many publicly shared goods like a library (people will borrow and return books).",
+      "organizational": "In organizations, the primary mode of trust is between leadership and their workers. The workers must trust the decisions of leadership to execute their orders in good conscious, while the leaders must trust the workers to uphold their duties.",
+      "experts": "Society must trust the advice of experts and that they work in the public interest. Otherwise, society may revoke the responsibilities they willingly deligate to the experts.",
+      "machine": "Humans trust machines to always act according to their intended functionality or be truthful about notifying them of any deviation from this obligation."
+     }
+ },
+  {
+    "category": "AT",
+    "name": "Reliability",
+    "definition": "Consistent behavior and availability when needed",
+    "people": "People can expect others to act predictably based on their own moral values/expectations.",
+    "peopleref": "",
+    "organizational": "Higher-ups can expect lower-downs to operate in the best interest of the organization.",
+    "organizationalref": "",
+    "professionals": "Society expects professionals to stay steadfast in providing advice or conducting work for social good.",
+    "professionalref": "",
+    "machine": "Humans rely on machines to behave according to their specified objective or role.",
+    "machineref": "",
+    "failureModes": {
+      "human": "Personal relationships would break down as people are no longer reliable individuals.",
+      "organizational": "An organization can no longer function if either the higher-ups or workers stop behaving predictably, resulting in lack or leadership or productivity.",
+      "experts": "People stop going to experts that cannot consistently deliver on expectations based on their expertise.",
+      "machine": "Humans stop using machines that do not carry out functions based on their role."
+     },
+     "expand": {
+      "human": "Personal relationships, marriages, families, and economies all rely on people behaving predictably and being available for one another.",
+      "organizational": "Predictability of business decisions that both benefit the workers and the organization, while increasing value.",
+      "experts": "Society needs to believe that experts will actually carry out its obligation to give advice, conduct airtight research, and be knowledgable in their field.",
+      "machine": "Humans need to feel that machines can consistently execute on its functions to be usable."
+     }
+ },
+  {
+    "category": "AT",
+    "name": "Shared Intentionality",
+    "definition": "Operating cooperatively through common goals, aims, and beliefs",
+    "people": "People can understand each others goals and aims (theory of mind) to complete tasks involving multiple individuals.",
+    "peopleref": "",
+    "organizational": "There must be shared goals between higher-ups, lower-downs, and within each group to achieve their objective.",
+    "organizationalref": "",
+    "professionals": "Society must impart of professionals shared goals for them to apply their skills for the common, public good.",
+    "professionalref": "",
+    "machine": "Humans and machines must also have shared goals before the machine can faithfully execute requests from humans.",
+    "machineref": "",
+    "failureModes": {
+      "human": "Human interactions would be so uncoordinated (e.g. people walking into each other) as no one understands what others are trying to achieve.",
+      "organizational": "Major conflicts of interests within organizations where groups within the organization are effectively working against each other.",
+      "experts": "Conflicts of interests with experts, where experts may not be aligned with the goal of public good, but have alterior motives (e.g. money).",
+      "machine": "A machine does not execute the requests from humans, which can result in disasterous consequences (e.g. a power grid going down)."
+     },
+     "expand": {
+      "human": "Many parts of daily life, such as driving a car, following road signs, crossing paths with other pedestrians, signaling, etc. all require a common intentionality of getting to a destination safely, motivating coordination of behaviors.",
+      "organizational": "The objective of organization leadership shouldn't just be to maximize profit, but to keep the workers happy. This misalignment could result in defiance, strike, or mass resignation by the work force.",
+      "experts": "Professionals must share the objective of pursuing public benefit, improving the quality of life of other humans, or even desemination of knowledge that even the common person can understand.",
+      "machine": "If a human presses a button that's supposed to cool a nuclear reactor, the machine shouldn't blow up the reactor to expose it to the cool winter air. Humans and machines need a shared understanding of objectives (e.g. the operation is carried out safely should be implied)."
+     }
+ },
+  {
+    "category": "AT",
+    "name": "Considerateness",
+    "definition": "Taking into account to the needs, thoughts, and values of others.",
+    "people": "loremipsum",
+    "peopleref": "OPTIONAL URL reference https://scholarworks.umb.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1001&context=philosophy_faculty_pubs",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "machineref": "OPTIONAL",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+     },
+     "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+     }
+ },
+  {
+    "category": "AT",
+    "name": "Honesty",
+    "definition": "Truthful, possessing integrity",
+    "people": "loremipsum",
+    "peopleref": "OPTIONAL URL reference https://scholarworks.umb.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1001&context=philosophy_faculty_pubs",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "machineref": "OPTIONAL",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+     },
+     "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+     }
+ },
+  {
+    "category": "AT",
+    "name": "Role Fidelity",
+    "definition": "Adhering to predefined duties, commitments, and obligations",
+    "people": "loremipsum",
+    "peopleref": "OPTIONAL URL reference https://scholarworks.umb.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1001&context=philosophy_faculty_pubs",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "machineref": "OPTIONAL",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+     },
+     "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+     }
+ },
 ]
