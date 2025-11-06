@@ -39,4 +39,4 @@ window.dialogData = [
     "speaker": "Human",
     "text": "<p>While this may be something that's challenging due to scale, I'd some way of stratifying the training dataset (e.g. with clustering), training on different clusters/subsets of the dataset, and see how different distributions of various content affect the model's propensity to undergo failure cases. Personally, I'm not convinced by the existing transpency tools available for transformers, so ablation studies to characterize what data is the main driver of the problem can help improve training datasets to mitigate this problem.</p>"
   }
-]
+];
